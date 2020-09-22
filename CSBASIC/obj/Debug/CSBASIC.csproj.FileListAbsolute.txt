@@ -1,0 +1,14 @@
+G:\code\CSBASIC\CSBASIC\bin\Debug\CSBASIC.exe.config
+G:\code\CSBASIC\CSBASIC\bin\Debug\CSBASIC.exe
+G:\code\CSBASIC\CSBASIC\bin\Debug\CSBASIC.pdb
+G:\code\CSBASIC\CSBASIC\obj\Debug\CSBASIC.csprojResolveAssemblyReference.cache
+G:\code\CSBASIC\CSBASIC\obj\Debug\CSBASIC.csproj.CoreCompileInputs.cache
+G:\code\CSBASIC\CSBASIC\obj\Debug\CSBASIC.exe
+G:\code\CSBASIC\CSBASIC\obj\Debug\CSBASIC.pdb
+D:\code\CSBASIC\CSBASIC\bin\Debug\CSBASIC.exe.config
+D:\code\CSBASIC\CSBASIC\bin\Debug\CSBASIC.exe
+D:\code\CSBASIC\CSBASIC\bin\Debug\CSBASIC.pdb
+D:\code\CSBASIC\CSBASIC\obj\Debug\CSBASIC.csproj.CoreCompileInputs.cache
+D:\code\CSBASIC\CSBASIC\obj\Debug\CSBASIC.exe
+D:\code\CSBASIC\CSBASIC\obj\Debug\CSBASIC.pdb
+D:\code\CSBASIC\CSBASIC\obj\Debug\CSBASIC.csprojAssemblyReference.cache
